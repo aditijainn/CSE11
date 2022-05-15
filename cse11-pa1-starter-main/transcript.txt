@@ -1,0 +1,19 @@
+aditijain@Aditis-MacBook-Air cse11-pa1-starter-main % ./run DesignRecipeExamples
+Tester Library v.3.0
+-----------------------------------
+Tests defined in the class: DesignRecipeExamples:
+---------------------------
+DesignRecipeExamples:
+---------------
+new DesignRecipeExamples:1(
+ this.problem1result = 18
+ this.problem1result2 = 26
+ this.problem2result = 38
+ this.problem2result2 = 175
+ this.problem3result = 35400
+ this.problem3result2 = 1200
+ this.problem4result = 90
+ this.problem4result2 = 301)
+---------------
+No test methods found.
+aditijain@Aditis-MacBook-Air cse11-pa1-starter-main % 
