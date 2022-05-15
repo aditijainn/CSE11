@@ -1,0 +1,16 @@
+java CmdTool sum 4 5 6
+15
+java CmdTool max 8 9 7
+9
+java CmdTool greater 8 9 7 8 6 10
+9 10
+java CmdTool lesser 8 9 7 8 6 10
+7 6
+java CmdTool -l sum 1 2 4
+7
+java CmdTool -l mean 8 7 6
+7.0
+java CmdTool -l sum greater -1 -1 0 1 2
+2
+java CmdTool -l sum sum sum sum sum sum 1 2 3
+6
